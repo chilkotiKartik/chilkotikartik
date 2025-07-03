@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/chilkoti_kartik" target="blank"><img src="https://img.shields.io/twitter/follow/chilkoti_kartik?logo=twitter&style=for-the-badge" alt="chilkoti_kartik" /></a> </p>
 
-- 🔭 I’m currently working on [Full-stack AI-powered platform](https://github.com/chilkotiKartik/ignite)
+- 🔭 I’m currently working on [Full-stack](https://github.com/chilkotiKartik)
 
 - 🌱 I’m currently learning **Advanced DevOps workflows to scale full-stack and eco-impact platforms.**
 
