@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Chilkoti</h1>
 <h3 align="center">Full-Stack Developer | Tech-for-Good Innovator | Hackathon Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chilkotikartik" alt="chilkotikartik" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/chilkoti_kartik" target="blank"><img src="https://img.shields.io/twitter/follow/chilkoti_kartik?logo=twitter&style=for-the-badge" alt="chilkoti_kartik" /></a> </p>
 
@@ -37,5 +37,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chilkotikartik&show_icons=true&locale=en&layout=compact" alt="chilkotikartik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chilkotikartik&show_icons=true&locale=en" alt="chilkotikartik" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chilkotikartik" alt="chilkotikartik" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chilkotikartik&" alt="chilkotikartik" /></p>
