@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://imgur.com/gqV1wKh.gif" height=480  width=1000>
 <h1 align="center">Hi 👋, I'm Kartik Chilkoti</h1>
 <h3 align="center">Full-Stack Developer | Tech-for-Good Innovator | Hackathon Enthusiast</h3>
 
