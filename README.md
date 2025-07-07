@@ -38,6 +38,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chilkotikartik&show_icons=true&locale=en" alt="chilkotikartik" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chilkotikartik&theme=tokyonight" alt="chilkotikartik" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chilkotikartik" alt="chilkotikartik" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chilkotikartik&" alt="chilkotikartik" /></p>
