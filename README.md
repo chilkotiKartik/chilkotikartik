@@ -1,23 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B0F19,40:1E293B,80:2563EB,100:06B6D4&text=Kartik%20Chilkoti&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Full-Stack%20Architect%20%7C%20Building%20High-Impact%20Digital%20Systems&descAlignY=58&descSize=17&descColor=94A3B8" width="100%" alt="Kartik Chilkoti Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:1E293B,70:2563EB,100:06B6D4&text=Kartik%20Chilkoti&fontColor=FFFFFF&fontSize=54&fontAlignY=36&desc=Full-Stack%20Architect%20%7C%20Building%20Resilient%20Digital%20Systems&descAlignY=58&descSize=18&descColor=94A3B8" width="100%" alt="Kartik Chilkoti - Full Stack Developer" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Engineering+high-performance+web+platforms;Civic+Technology+%C2%B7+AI-Assisted+Tools+%C2%B7+Real-Time+Systems;TypeScript+%C2%B7+Next.js+%C2%B7+React+19+%C2%B7+Node.js+%C2%B7+PostgreSQL" alt="Focus Areas" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=21&pause=1400&color=38BDF8&center=true&vCenter=true&width=800&lines=Engineering+high-performance+web+platforms;Civic+Technology+%C2%B7+AI-Assisted+Tools+%C2%B7+Real-Time+Systems;TypeScript+%C2%B7+Next.js+16+%C2%B7+React+19+%C2%B7+Node.js+%C2%B7+PostgreSQL;Architecting+scalable+full-stack+ecosystems" alt="Focus Areas Animation" />
 
 <br />
 
-[![GitHub Followers](https://img.shields.io/github/followers/chilkotiKartik?label=Followers&style=for-the-badge&color=1E293B&logo=github)](https://github.com/chilkotiKartik)
+[![GitHub Followers](https://img.shields.io/github/followers/chilkotiKartik?label=Followers&style=for-the-badge&color=1E293B&logo=github)](https://github.com/chilkotiKartik?tab=followers)
 [![Public Roadmap](https://img.shields.io/badge/Roadmap-Live%20Projects-2563EB?style=for-the-badge&logo=github)](https://github.com/users/chilkotiKartik/projects/3)
-[![Packages](https://img.shields.io/badge/Packages-5%20Published-10B981?style=for-the-badge&logo=npm)](https://github.com/chilkotiKartik?tab=packages)
+[![Packages](https://img.shields.io/badge/Packages-8%20Published-10B981?style=for-the-badge&logo=npm)](https://github.com/chilkotiKartik?tab=packages)
 [![Email](https://img.shields.io/badge/Email-chilkotikartik%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chilkotikartik@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Kartik_Chilkoti-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kartik_chilkoti_8cbb5980d)
+[![HackerRank](https://img.shields.io/badge/HackerRank-chilkotikartik-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chilkotikartik)
 
 </div>
 
 <br />
 
-## 🌟 Executive Summary
+## ⚡ Executive Summary
 
-I am a **Full-Stack Developer** focused on building resilient, production-grade web applications. My work centers on **civic intelligence platforms, real-time communication systems, and AI-assisted operational workflows** with a commitment to clean architecture, accessibility, and high performance.
+I am a **Full-Stack Developer & Software Architect** specialized in crafting mission-critical applications. My core engineering portfolio centers on **civic intelligence operating systems, real-time collaboration engines, and AI-assisted operational workflows**, combining high-scale backend infrastructure with accessible, responsive user interfaces.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>🔭 Currently Building</strong><br />
+      High-throughput civic triage platforms, predictive dispatch engines, and AI workflow copilots.
+    </td>
+    <td width="33%" valign="top">
+      <strong>🧠 Core Stack</strong><br />
+      TypeScript &bull; Next.js 16 &bull; React 19 &bull; Node.js &bull; PostgreSQL &bull; Groq AI &bull; WebSockets
+    </td>
+    <td width="33%" valign="top">
+      <strong>🎯 Architecture Focus</strong><br />
+      Clean Architecture, modular design systems, distributed queues, and WASM media pipelines.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -27,7 +46,7 @@ I am a **Full-Stack Developer** focused on building resilient, production-grade 
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/chilkotiKartik/sahasra-2026">🛡️ SAHASRA 2026</a></h3>
-      <p>AI-first crime intelligence and field workflow operating system featuring anomaly detection, predictive planning, and live emergency dispatch.</p>
+      <p>AI-first crime intelligence and field workflow operating system featuring real-time anomaly detection, predictive planning, and live emergency dispatch.</p>
       <p>
         <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,tensorflow" height="24" alt="Stack" />
       </p>
@@ -51,7 +70,7 @@ I am a **Full-Stack Developer** focused on building resilient, production-grade 
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/chilkotiKartik/enterprise-event-system">⚡ Enterprise Event System</a></h3>
-      <p>Large-scale event operations engine with Supabase SSR, Groq LLM assistance, in-browser FFmpeg video transcoding, and PostgreSQL migrations.</p>
+      <p>Large-scale event operations engine with Supabase SSR, Groq LLM assistance, in-browser WASM FFmpeg video transcoding, and PostgreSQL migrations.</p>
       <p>
         <img src="https://skillicons.dev/icons?i=nextjs,react,postgres,supabase,aws" height="24" alt="Stack" />
       </p>
@@ -74,7 +93,7 @@ I am a **Full-Stack Developer** focused on building resilient, production-grade 
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/chilkotiKartik/Dev-fusion">💻 Dev-Fusion</a></h3>
-      <p>Collaborative developer platform and real-time workspace designed for team synchronization and code management.</p>
+      <p>Collaborative developer platform and real-time workspace designed for team synchronization, code management, and live collaboration.</p>
       <p>
         <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nodejs" height="24" alt="Stack" />
       </p>
@@ -98,52 +117,54 @@ I am a **Full-Stack Developer** focused on building resilient, production-grade 
 
 ---
 
-## 📦 Published Open-Source Packages
+## 📦 Published Open-Source NPM Packages
 
-Explore my published packages on the [GitHub Packages Registry](https://github.com/chilkotiKartik?tab=packages):
+A suite of production-ready packages authored by **Kartik Chilkoti** on the [GitHub Packages Registry](https://github.com/chilkotiKartik?tab=packages):
 
-| Package | Purpose & Features | Installation |
+| Package Name | Category | Description |
 | :--- | :--- | :--- |
-| [@chilkotikartik/core-utils](https://github.com/chilkotiKartik?tab=packages) | Core TypeScript full-stack utilities, sanitizers, and formatters | 
-pm install @chilkotikartik/core-utils |
-| [@chilkotikartik/civic-ui-tokens](https://github.com/chilkotiKartik?tab=packages) | Accessible design tokens, color scales, and theme primitives | 
-pm install @chilkotikartik/civic-ui-tokens |
-| [@chilkotikartik/realtime-hooks](https://github.com/chilkotiKartik?tab=packages) | React hooks for WebSockets, real-time polling, and debouncing | 
-pm install @chilkotikartik/realtime-hooks |
-| [@chilkotikartik/ai-triage-core](https://github.com/chilkotiKartik?tab=packages) | Algorithmic incident triage & severity scoring engine | 
-pm install @chilkotikartik/ai-triage-core |
-| [@chilkotikartik/form-validators](https://github.com/chilkotiKartik?tab=packages) | Standardized phone, email, and input validation schemas | 
-pm install @chilkotikartik/form-validators |
+| [@chilkotikartik/core-utils](https://github.com/chilkotiKartik?tab=packages) | **Full-Stack Utilities** | String sanitization, date formatters, and fullstack helpers |
+| [@chilkotikartik/civic-ui-tokens](https://github.com/chilkotiKartik?tab=packages) | **Design Systems** | Accessible color palettes, spacing scales, and theme primitives |
+| [@chilkotikartik/realtime-hooks](https://github.com/chilkotiKartik?tab=packages) | **React Hooks** | WebSocket connection managers, live polling, and debounce hooks |
+| [@chilkotikartik/ai-triage-core](https://github.com/chilkotiKartik?tab=packages) | **AI & Algorithms** | Automated incident triage, severity scoring, and prompt formatting |
+| [@chilkotikartik/geo-spatial-utils](https://github.com/chilkotiKartik?tab=packages) | **Geospatial** | High-precision GPS distance calculation & proximity bounding |
+| [@chilkotikartik/form-validators](https://github.com/chilkotiKartik?tab=packages) | **Validation** | Production-ready phone, email, and input schema sanitizers |
+| [@chilkotikartik/tailwind-civic-preset](https://github.com/chilkotiKartik?tab=packages) | **Styling** | High-contrast Tailwind CSS presets for public dashboards |
+| [@chilkotikartik/rate-limiter-redis](https://github.com/chilkotiKartik?tab=packages) | **Infrastructure** | Sliding-window API rate limiter middleware for Express and Next.js |
 
 ---
 
-## 🛠️ Technical Stack & Tooling
+## 🛠️ Complete Technical Ecosystem
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,nodejs,express,postgres,mongodb,supabase,firebase,tailwind,docker,git,figma&perline=15" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,nodejs,express,postgres,mongodb,supabase,firebase,tailwind,docker,git,figma,postman,linux,aws&perline=18" alt="Master Tech Stack Grid" />
 
 </div>
 
 <br />
 
-| Area | Technologies |
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | TypeScript, JavaScript (ES6+), Python 3, SQL |
-| **Frontend & Mobile** | Next.js 15/16 (Turbopack), React 19, React Native (Expo), Vite, Tailwind CSS, Radix UI, Framer Motion |
-| **Backend & Real-Time** | Node.js, Express.js, Socket.IO, WebRTC, Bull Queue, REST APIs |
-| **Databases & Cloud** | PostgreSQL, MongoDB, Supabase, Firebase, AWS S3, Vercel, Netlify |
-| **AI & Machine Learning** | TensorFlow.js, PyTorch, Groq SDK, Computer Vision, TLBO Optimization |
-| **DevOps & Architecture** | Docker, Git, CI/CD Workflows, Linux Environments |
+| **Languages** | TypeScript, JavaScript (ES6+), Python 3.11, SQL |
+| **Frontend & Mobile** | Next.js 16/15 (Turbopack, App Router), React 19, React Native (Expo), Vite, Tailwind CSS, Radix UI, Framer Motion |
+| **Backend & APIs** | Node.js, Express.js, Socket.IO, WebRTC, BullMQ, RESTful Architectures |
+| **Databases & Cloud** | PostgreSQL, MongoDB, Supabase SSR, Firebase, Redis, AWS S3, Vercel, Netlify |
+| **AI & Media Pipelines** | Groq SDK, TensorFlow.js, PyTorch, @ffmpeg/ffmpeg (WASM), Recharts |
+| **Tooling & DevOps** | Docker, Git, GitHub Actions, NPM Package Publishing, Linux |
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Analytics & Productivity Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chilkotiKartik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chilkotiKartik&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=chilkotiKartik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Kartik Chilkoti GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chilkotiKartik&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages Breakdown" />
+
+<br /><br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chilkotiKartik&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -153,12 +174,17 @@ pm install @chilkotikartik/form-validators |
 
 <div align="center">
 
-**Let's build something impactful together.**
+**Open to collaborating on high-impact products, civic intelligence, and developer tooling.**
 
-[Email](mailto:chilkotikartik@gmail.com) &bull; [GitHub](https://github.com/chilkotiKartik) &bull; [Dev.to](https://dev.to/kartik_chilkoti_8cbb5980d) &bull; [HackerRank](https://www.hackerrank.com/chilkotikartik)
+[![Email](https://img.shields.io/badge/Email-chilkotikartik%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chilkotikartik@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-chilkotiKartik-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chilkotiKartik)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Kartik_Chilkoti-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/kartik_chilkoti_8cbb5980d)
+[![HackerRank](https://img.shields.io/badge/HackerRank-chilkotikartik-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chilkotikartik)
 
-<br />
+<br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,50:2563EB,100:0B0F19" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,50:2563EB,100:0F172A" width="100%" alt="Footer Wave" />
+
+<sub>Designed & Engineered with precision by <strong>Kartik Chilkoti</strong> &bull; All rights reserved.</sub>
 
 </div>
