@@ -1,101 +1,145 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Kartik%20Chilkoti&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=Full-stack%20developer%20%7C%20Building%20useful%20digital%20experiences&descAlignY=61&descSize=18&animation=fadeIn" width="100%" alt="Kartik Chilkoti - Full-stack developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B0F19,40:1E293B,80:2563EB,100:06B6D4&text=Kartik%20Chilkoti&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Full-Stack%20Architect%20%7C%20Building%20High-Impact%20Digital%20Systems&descAlignY=58&descSize=17&descColor=94A3B8" width="100%" alt="Kartik Chilkoti Banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=760&lines=Turning+ideas+into+practical+products;Civic+technology+%C2%B7+Real-time+systems+%C2%B7+AI-assisted+tools" alt="Animated focus areas: practical products, civic technology, real-time systems, and AI-assisted tools" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Engineering+high-performance+web+platforms;Civic+Technology+%C2%B7+AI-Assisted+Tools+%C2%B7+Real-Time+Systems;TypeScript+%C2%B7+Next.js+%C2%B7+React+19+%C2%B7+Node.js+%C2%B7+PostgreSQL" alt="Focus Areas" />
 
 <br />
 
-<a href="https://github.com/chilkotiKartik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="mailto:chilkotikartik@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kartik Chilkoti" /></a>
-<a href="https://drive.google.com/file/d/1K9DBz0F8RJNdacE79ZywV_Syn7fJS3ne/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="View resume" /></a>
+[![GitHub Followers](https://img.shields.io/github/followers/chilkotiKartik?label=Followers&style=for-the-badge&color=1E293B&logo=github)](https://github.com/chilkotiKartik)
+[![Email](https://img.shields.io/badge/Email-chilkotikartik%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chilkotikartik@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Kartik_Chilkoti-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kartik_chilkoti_8cbb5980d)
+[![HackerRank](https://img.shields.io/badge/HackerRank-chilkotikartik-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chilkotikartik)
 
 </div>
 
 <br />
 
-## A little about me
+## 🌟 Executive Summary
 
-I’m a full-stack developer who enjoys turning thoughtful product ideas into fast, practical applications. I build across civic technology, real-time collaboration, and AI-assisted operational tools, with an emphasis on clear interfaces and maintainable systems.
+I am a **Full-Stack Developer** focused on turning complex product ideas into resilient, production-grade applications. My primary work spans **civic intelligence systems, real-time collaboration engines, and AI-assisted operational workflows** with a strong emphasis on clean architecture and high-performance user interfaces.
 
-<table>
-  <tr>
-    <td><strong>Currently exploring</strong><br />Advanced DevOps workflows for scalable full-stack and eco-impact platforms</td>
-    <td><strong>Core toolkit</strong><br />React · Next.js · Node.js · TypeScript · Python · MongoDB</td>
-    <td><strong>Build style</strong><br />Product-minded · Accessible · Full-stack</td>
-  </tr>
-</table>
+---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="360" alt="Animated illustration of a developer working at a computer" />
-</div>
-
-## Featured work
+## 🚀 Featured Flagship Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/chilkotiKartik/sahasra-2026">SAHASRA 2026</a></h3>
-      <p>AI-first crime intelligence operating system for field workflows, anomaly analysis, predictive planning, and live dispatch.</p>
-      <p><strong>Stack:</strong> Expo · React Native · React · Vite · Node.js · Express · TypeScript · WebSocket · TensorFlow.js · Zoho Catalyst</p>
-      <p><a href="https://sahasra1.development.catalystappsail.in/">Live demo</a> · <a href="https://drive.google.com/file/d/1EJMpkJoA2OaEpGDyEtIfV1Zx871UoJI8zo/view?usp=drivesdk">Demo video</a></p>
+      <h3><a href="https://github.com/chilkotiKartik/sahasra-2026">🛡️ SAHASRA 2026</a></h3>
+      <p>AI-first crime intelligence and field workflow operating system featuring anomaly detection, predictive planning, and live emergency dispatch.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,tensorflow" height="24" alt="Stack" />
+      </p>
+      <p>
+        <a href="https://sahasra1.development.catalystappsail.in/"><strong>🌐 Live Demo</strong></a> &bull; 
+        <a href="https://github.com/chilkotiKartik/sahasra-2026"><strong>📂 Repository</strong></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/chilkotiKartik/Project-Sankalp">Project-Sankalp</a></h3>
-      <p>AI-assisted civic platform for complaint handling, safety escalation, governance visibility, and real-time operations.</p>
-      <p><strong>Stack:</strong> Next.js · React · Tailwind CSS · Framer Motion · Recharts · Node.js · Express · Socket.IO · Bull · JWT · Expo</p>
-      <p><a href="https://github.com/chilkotiKartik/Project-Sankalp">View repository</a> · <em>No public live demo listed</em></p>
+      <h3><a href="https://github.com/chilkotiKartik/Project-Sankalp">🏛️ Project-Sankalp & Sankalp AI</a></h3>
+      <p>AI-assisted civic grievance platform with automated triage, escalation protocols, governance dashboards, and real-time incident queues.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs" height="24" alt="Stack" />
+      </p>
+      <p>
+        <a href="https://github.com/chilkotiKartik/Project-Sankalp"><strong>📂 Project-Sankalp</strong></a> &bull; 
+        <a href="https://github.com/chilkotiKartik/sankalp-ai"><strong>🤖 Sankalp AI</strong></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/chilkotiKartik/suvidha-hub">suvidha-hub</a></h3>
-      <p>Mobile-first civic issue reporting with GPS-enabled complaints, live status tracking, and an admin dashboard.</p>
-      <p><strong>Stack:</strong> React 18 · TypeScript · Vite · React Router · TanStack Query · React Hook Form · Zod · Tailwind CSS</p>
-      <p><a href="https://suvidha-hub.vercel.app">Live demo</a> · <a href="https://github.com/chilkotiKartik/suvidha-hub">View repository</a></p>
+      <h3><a href="https://github.com/chilkotiKartik/enterprise-event-system">⚡ Enterprise Event System</a></h3>
+      <p>Large-scale event operations engine with Supabase SSR, Groq LLM assistance, in-browser FFmpeg video transcoding, and PostgreSQL migrations.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,postgres,supabase,aws" height="24" alt="Stack" />
+      </p>
+      <p>
+        <a href="https://github.com/chilkotiKartik/enterprise-event-system"><strong>📂 View Codebase</strong></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/chilkotiKartik/zoom-calling">zoom-calling</a></h3>
-      <p>Next.js-based Zoom clone for creating, joining, and managing online video meetings.</p>
-      <p><strong>Stack:</strong> Next.js · TypeScript · Real-time web experience</p>
-      <p><a href="https://nextjs-zoom-six.vercel.app">Live demo</a> · <a href="https://github.com/chilkotiKartik/zoom-calling">View repository</a></p>
+      <h3><a href="https://github.com/chilkotiKartik/suvidha-hub">📍 Suvidha Hub</a></h3>
+      <p>Mobile-first civic complaint reporting platform featuring GPS-enabled ticketing, real-time status tracking, and administrative triage.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind" height="24" alt="Stack" />
+      </p>
+      <p>
+        <a href="https://suvidha-hub.vercel.app"><strong>🌐 Live Demo</strong></a> &bull; 
+        <a href="https://github.com/chilkotiKartik/suvidha-hub"><strong>📂 Repository</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/chilkotiKartik/Dev-fusion">💻 Dev-Fusion</a></h3>
+      <p>Collaborative developer platform and real-time workspace designed for team synchronization and code management.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nodejs" height="24" alt="Stack" />
+      </p>
+      <p>
+        <a href="https://dev-fusion-sage.vercel.app/"><strong>🌐 Live Demo</strong></a> &bull; 
+        <a href="https://github.com/chilkotiKartik/Dev-fusion"><strong>📂 Repository</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/chilkotiKartik/livwell-health">🥗 LivWell Health & Nutrition</a></h3>
+      <p>Modern lifestyle tracking and nutrition application with Radix UI primitives, dynamic meal carts, and Recharts health visualizations.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="24" alt="Stack" />
+      </p>
+      <p>
+        <a href="https://github.com/chilkotiKartik/livwell-health"><strong>📂 View Codebase</strong></a>
+      </p>
     </td>
   </tr>
 </table>
 
-## Technology
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,mongodb,tailwind,firebase,git,figma&perline=10" alt="Technology icons for React, Next.js, TypeScript, Node.js, Python, MongoDB, Tailwind CSS, Firebase, Git, and Figma" />
-</div>
-
-<p>
-  <strong>Frontend</strong><br />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-<p>
-  <strong>Backend and data</strong><br />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO" />
-</p>
-
-## Connect
+## 🛠️ Technical Stack & Tooling
 
 <div align="center">
 
-[GitHub](https://github.com/chilkotiKartik) · [Dev.to](https://dev.to/kartik_chilkoti_8cbb5980d) · [HackerRank](https://www.hackerrank.com/chilkotikartik) · [Email](mailto:chilkotikartik@gmail.com)
-
-<sub>Thanks for visiting.</sub>
+<img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,nodejs,express,postgres,mongodb,supabase,firebase,tailwind,docker,git,figma&perline=15" alt="Tech Stack Icons" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,50:1D4ED8,100:0F172A" width="100%" alt="Decorative footer" />
+<br />
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript (ES6+), Python 3, SQL |
+| **Frontend & Mobile** | Next.js 15/16 (Turbopack), React 19, React Native (Expo), Vite, Tailwind CSS, Radix UI, Framer Motion |
+| **Backend & Real-Time** | Node.js, Express.js, Socket.IO, WebRTC, Bull Queue, REST APIs |
+| **Databases & Cloud** | PostgreSQL, MongoDB, Supabase, Firebase, AWS S3, Vercel, Netlify |
+| **AI & Machine Learning** | TensorFlow.js, PyTorch, Groq SDK, Computer Vision, TLBO Optimization |
+| **DevOps & Architecture** | Docker, Git, CI/CD Workflows, Linux Environments |
+
+---
+
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chilkotiKartik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chilkotiKartik&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+
+</div>
+
+---
+
+## 📬 Connect & Collaborate
+
+<div align="center">
+
+**Let's build something impactful together.**
+
+[Email](mailto:chilkotikartik@gmail.com) &bull; [GitHub](https://github.com/chilkotiKartik) &bull; [Dev.to](https://dev.to/kartik_chilkoti_8cbb5980d) &bull; [HackerRank](https://www.hackerrank.com/chilkotikartik)
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,50:2563EB,100:0B0F19" width="100%" alt="Footer" />
+
+</div>
