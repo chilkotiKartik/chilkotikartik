@@ -26,6 +26,10 @@ I’m a full-stack developer who enjoys turning thoughtful product ideas into fa
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="360" alt="Animated illustration of a developer working at a computer" />
+</div>
+
 ## Featured work
 
 <table>
@@ -60,6 +64,10 @@ I’m a full-stack developer who enjoys turning thoughtful product ideas into fa
 </table>
 
 ## Technology
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,mongodb,tailwind,firebase,git,figma&perline=10" alt="Technology icons for React, Next.js, TypeScript, Node.js, Python, MongoDB, Tailwind CSS, Firebase, Git, and Figma" />
+</div>
 
 <p>
   <strong>Frontend</strong><br />
