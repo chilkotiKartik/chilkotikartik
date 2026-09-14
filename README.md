@@ -1,101 +1,62 @@
-<div align="center">
+<img src="https://imgur.com/gqV1wKh.gif" height=480  width=1000>
+<h1 align="center">Hi 👋, I'm Kartik Chilkoti</h1>
+<h3 align="center">Full-Stack Developer | Tech-for-Good Innovator | Hackathon Enthusiast</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Kartik%20Chilkoti&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=Full-stack%20developer%20%7C%20Building%20useful%20digital%20experiences&descAlignY=61&descSize=18&animation=fadeIn" width="100%" alt="Kartik Chilkoti - Full-stack developer" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=760&lines=Turning+ideas+into+practical+products;Civic+technology+%C2%B7+Real-time+systems+%C2%B7+AI-assisted+tools" alt="Animated focus areas: practical products, civic technology, real-time systems, and AI-assisted tools" />
 
-<br />
+<p align="left"> <a href="https://twitter.com/chilkoti_kartik" target="blank"><img src="https://img.shields.io/twitter/follow/chilkoti_kartik?logo=twitter&style=for-the-badge" alt="chilkoti_kartik" /></a> </p>
 
-<a href="https://github.com/chilkotiKartik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="mailto:chilkotikartik@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kartik Chilkoti" /></a>
-<a href="https://drive.google.com/file/d/1K9DBz0F8RJNdacE79ZywV_Syn7fJS3ne/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="View resume" /></a>
+- 🔭 I’m currently working on [Full-stack](https://github.com/chilkotiKartik)
 
-</div>
+- 🌱 I’m currently learning **Advanced DevOps workflows to scale full-stack and eco-impact platforms.**
 
-<br />
+- 💬 Ask me about **React.js, Node.js, Express, MongoDB, Tailwind CSS, Flask, Firebase, WordPress, Python, Git, and real-time tools like Socket.io**
 
-## A little about me
+- 📫 How to reach me **chilkotikartik@gmail.com**
 
-I’m a full-stack developer who enjoys turning thoughtful product ideas into fast, practical applications. I build across civic technology, real-time collaboration, and AI-assisted operational tools, with an emphasis on clear interfaces and maintainable systems.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1K9DBz0F8RJNdacE79ZywV_Syn7fJS3ne/view?usp=drivesdk](https://drive.google.com/file/d/1K9DBz0F8RJNdacE79ZywV_Syn7fJS3ne/view?usp=drivesdk)
 
-<table>
-  <tr>
-    <td><strong>Currently exploring</strong><br />Advanced DevOps workflows for scalable full-stack and eco-impact platforms</td>
-    <td><strong>Core toolkit</strong><br />React · Next.js · Node.js · TypeScript · Python · MongoDB</td>
-    <td><strong>Build style</strong><br />Product-minded · Accessible · Full-stack</td>
-  </tr>
-</table>
+- ⚡ Fun fact **🎮 My idea of fun? Debugging at 3AM during a hackathon with Maggi and memes.**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="360" alt="Animated illustration of a developer working at a computer" />
-</div>
-
-## Featured work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/chilkotiKartik/sahasra-2026">SAHASRA 2026</a></h3>
-      <p>AI-first crime intelligence operating system for field workflows, anomaly analysis, predictive planning, and live dispatch.</p>
-      <p><strong>Stack:</strong> Expo · React Native · React · Vite · Node.js · Express · TypeScript · WebSocket · TensorFlow.js · Zoho Catalyst</p>
-      <p><a href="https://sahasra1.development.catalystappsail.in/">Live demo</a> · <a href="https://drive.google.com/file/d/1EJMpkJoA2OaEpGDyEtIfV1Zx871UoJI8zo/view?usp=drivesdk">Demo video</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/chilkotiKartik/Project-Sankalp">Project-Sankalp</a></h3>
-      <p>AI-assisted civic platform for complaint handling, safety escalation, governance visibility, and real-time operations.</p>
-      <p><strong>Stack:</strong> Next.js · React · Tailwind CSS · Framer Motion · Recharts · Node.js · Express · Socket.IO · Bull · JWT · Expo</p>
-      <p><a href="https://github.com/chilkotiKartik/Project-Sankalp">View repository</a> · <em>No public live demo listed</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/chilkotiKartik/suvidha-hub">suvidha-hub</a></h3>
-      <p>Mobile-first civic issue reporting with GPS-enabled complaints, live status tracking, and an admin dashboard.</p>
-      <p><strong>Stack:</strong> React 18 · TypeScript · Vite · React Router · TanStack Query · React Hook Form · Zod · Tailwind CSS</p>
-      <p><a href="https://suvidha-hub.vercel.app">Live demo</a> · <a href="https://github.com/chilkotiKartik/suvidha-hub">View repository</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/chilkotiKartik/zoom-calling">zoom-calling</a></h3>
-      <p>Next.js-based Zoom clone for creating, joining, and managing online video meetings.</p>
-      <p><strong>Stack:</strong> Next.js · TypeScript · Real-time web experience</p>
-      <p><a href="https://nextjs-zoom-six.vercel.app">Live demo</a> · <a href="https://github.com/chilkotiKartik/zoom-calling">View repository</a></p>
-    </td>
-  </tr>
-</table>
-
-## Technology
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,mongodb,tailwind,firebase,git,figma&perline=10" alt="Technology icons for React, Next.js, TypeScript, Node.js, Python, MongoDB, Tailwind CSS, Firebase, Git, and Figma" />
-</div>
-
-<p>
-  <strong>Frontend</strong><br />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/@kartik-chilkoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@kartik-chilkoti" height="30" width="40" /></a>
+<a href="https://dev.to/kartik_chilkoti_8cbb5980d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kartik_chilkoti_8cbb5980d" height="30" width="40" /></a>
+<a href="https://twitter.com/chilkoti_kartik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chilkoti_kartik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/kartik-chilkoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kartik-chilkoti" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/30954704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30954704" height="30" width="40" /></a>
+<a href="https://codesandbox.com/chilkotikartik15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="chilkotikartik15" height="30" width="40" /></a>
+<a href="https://kaggle.com/kartikchilkoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kartikchilkoti" height="30" width="40" /></a>
+<a href="https://medium.com/@chilkotikartik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chilkotikartik" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/chilkotiofbf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/chilkotiofbf" height="30" width="40" /></a>
 </p>
 
-<p>
-  <strong>Backend and data</strong><br />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chilkotikartik&show_icons=true&locale=en&layout=compact" alt="chilkotikartik" />
 </p>
 
-## Connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chilkotikartik&show_icons=true&locale=en" alt="chilkotikartik" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chilkotikartik" alt="chilkotikartik" />
+</p>
 
-[GitHub](https://github.com/chilkotiKartik) · [Dev.to](https://dev.to/kartik_chilkoti_8cbb5980d) · [HackerRank](https://www.hackerrank.com/chilkotikartik) · [Email](mailto:chilkotikartik@gmail.com)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chilkotikartik&" alt="chilkotikartik" />
+</p>
 
-<sub>Thanks for visiting.</sub>
+---
 
-</div>
+### 🏆 HackerRank Certifications
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,50:1D4ED8,100:0F172A" width="100%" alt="Decorative footer" />
+![HackerRank Python](https://img.shields.io/badge/HackerRank-Python%20(Basic)-2EC866?logo=hackerrank&logoColor=white)
+![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-2EC866?logo=hackerrank&logoColor=white)
+![HackerRank Problem Solving](https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Intermediate)-2EC866?logo=hackerrank&logoColor=white)
+
+🔗 [Check out my HackerRank Profile](https://www.hackerrank.com/chilkotikartik)
+
