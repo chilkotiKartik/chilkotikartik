@@ -7,9 +7,9 @@
 <br />
 
 [![GitHub Followers](https://img.shields.io/github/followers/chilkotiKartik?label=Followers&style=for-the-badge&color=1E293B&logo=github)](https://github.com/chilkotiKartik)
+[![Public Roadmap](https://img.shields.io/badge/Roadmap-Live%20Projects-2563EB?style=for-the-badge&logo=github)](https://github.com/users/chilkotiKartik/projects/3)
+[![Packages](https://img.shields.io/badge/Packages-5%20Published-10B981?style=for-the-badge&logo=npm)](https://github.com/chilkotiKartik?tab=packages)
 [![Email](https://img.shields.io/badge/Email-chilkotikartik%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chilkotikartik@gmail.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Kartik_Chilkoti-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kartik_chilkoti_8cbb5980d)
-[![HackerRank](https://img.shields.io/badge/HackerRank-chilkotikartik-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chilkotikartik)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## 🌟 Executive Summary
 
-I am a **Full-Stack Developer** focused on turning complex product ideas into resilient, production-grade applications. My primary work spans **civic intelligence systems, real-time collaboration engines, and AI-assisted operational workflows** with a strong emphasis on clean architecture and high-performance user interfaces.
+I am a **Full-Stack Developer** focused on building resilient, production-grade web applications. My work centers on **civic intelligence platforms, real-time communication systems, and AI-assisted operational workflows** with a commitment to clean architecture, accessibility, and high performance.
 
 ---
 
@@ -95,6 +95,25 @@ I am a **Full-Stack Developer** focused on turning complex product ideas into re
     </td>
   </tr>
 </table>
+
+---
+
+## 📦 Published Open-Source Packages
+
+Explore my published packages on the [GitHub Packages Registry](https://github.com/chilkotiKartik?tab=packages):
+
+| Package | Purpose & Features | Installation |
+| :--- | :--- | :--- |
+| [@chilkotikartik/core-utils](https://github.com/chilkotiKartik?tab=packages) | Core TypeScript full-stack utilities, sanitizers, and formatters | 
+pm install @chilkotikartik/core-utils |
+| [@chilkotikartik/civic-ui-tokens](https://github.com/chilkotiKartik?tab=packages) | Accessible design tokens, color scales, and theme primitives | 
+pm install @chilkotikartik/civic-ui-tokens |
+| [@chilkotikartik/realtime-hooks](https://github.com/chilkotiKartik?tab=packages) | React hooks for WebSockets, real-time polling, and debouncing | 
+pm install @chilkotikartik/realtime-hooks |
+| [@chilkotikartik/ai-triage-core](https://github.com/chilkotiKartik?tab=packages) | Algorithmic incident triage & severity scoring engine | 
+pm install @chilkotikartik/ai-triage-core |
+| [@chilkotikartik/form-validators](https://github.com/chilkotiKartik?tab=packages) | Standardized phone, email, and input validation schemas | 
+pm install @chilkotikartik/form-validators |
 
 ---
 
