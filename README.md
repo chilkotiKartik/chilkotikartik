@@ -1,190 +1,384 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:1E293B,70:2563EB,100:06B6D4&text=Kartik%20Chilkoti&fontColor=FFFFFF&fontSize=54&fontAlignY=36&desc=Full-Stack%20Architect%20%7C%20Building%20Resilient%20Digital%20Systems&descAlignY=58&descSize=18&descColor=94A3B8" width="100%" alt="Kartik Chilkoti - Full Stack Developer" />
+<img src="./assets/hero.svg" width="100%" alt="Kartik Chilkoti — Full-Stack & AI Builder, DevOps Engineer"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=21&pause=1400&color=38BDF8&center=true&vCenter=true&width=800&lines=Engineering+high-performance+web+platforms;Civic+Technology+%C2%B7+AI-Assisted+Tools+%C2%B7+Real-Time+Systems;TypeScript+%C2%B7+Next.js+16+%C2%B7+React+19+%C2%B7+Node.js+%C2%B7+PostgreSQL;Architecting+scalable+full-stack+ecosystems" alt="Focus Areas Animation" />
+<a href="https://github.com/chilkotikartik"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00FF9C&background=0A0E1400&center=true&vCenter=true&width=760&height=50&lines=%24+building+AI-powered+products+that+ship;%24+deploying+at+Ments+as+a+DevOps+Engineer;%24+8x+hackathon+winner+%C2%B7+2x+international;%24+mentoring+5%2C000%2B+builders+across+India;%24+BUILD+%E2%86%92+DEPLOY+%E2%86%92+COMPETE+%E2%86%92+MENTOR+%E2%86%92+IMPACT" alt="Typing intro"/></a>
 
-<br />
+<img src="https://img.shields.io/badge/ROLE-DevOps_Engineer_@_Ments-00FF9C?style=flat-square&labelColor=0A0E14" alt="Role"/>
+<img src="https://img.shields.io/badge/FOCUS-Full--Stack_·_AI_·_Cloud-00FF9C?style=flat-square&labelColor=0A0E14" alt="Focus"/>
+<img src="https://img.shields.io/badge/BASE-Uttarakhand,_India-00FF9C?style=flat-square&labelColor=0A0E14" alt="Location"/>
+<img src="https://img.shields.io/badge/STATUS-Open_to_Opportunities-00B4FF?style=flat-square&labelColor=0A0E14" alt="Status"/>
 
-[![GitHub Followers](https://img.shields.io/github/followers/chilkotiKartik?label=Followers&style=for-the-badge&color=1E293B&logo=github)](https://github.com/chilkotiKartik?tab=followers)
-[![Public Roadmap](https://img.shields.io/badge/Roadmap-Live%20Projects-2563EB?style=for-the-badge&logo=github)](https://github.com/users/chilkotiKartik/projects/3)
-[![Packages](https://img.shields.io/badge/Packages-8%20Published-10B981?style=for-the-badge&logo=npm)](https://github.com/chilkotiKartik?tab=packages)
-[![Email](https://img.shields.io/badge/Email-chilkotikartik%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chilkotikartik@gmail.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Kartik_Chilkoti-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kartik_chilkoti_8cbb5980d)
-[![HackerRank](https://img.shields.io/badge/HackerRank-chilkotikartik-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chilkotikartik)
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/kartik-chilkoti/"><img src="https://img.shields.io/badge/PORTFOLIO-0A0E14?style=for-the-badge&logo=googlechrome&logoColor=00FF9C" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/kartik-chilkoti/"><img src="https://img.shields.io/badge/LINKEDIN-0A0E14?style=for-the-badge&logo=linkedin&logoColor=00FF9C" alt="LinkedIn"/></a>
+<a href="https://dev.to/kartik_chilkoti_8cbb5980d"><img src="https://img.shields.io/badge/DEV.TO-0A0E14?style=for-the-badge&logo=devdotto&logoColor=00FF9C" alt="DEV"/></a>
+<a href="https://github.com/chilkotikartik?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-0A0E14?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=chilkotikartik&label=PROFILE+VIEWS&color=00FF9C&labelColor=0A0E14&style=flat-square" alt="Profile views"/>
+<a href="https://github.com/chilkotikartik?tab=followers"><img src="https://img.shields.io/github/followers/chilkotikartik?label=FOLLOWERS&style=flat-square&logo=github&logoColor=00FF9C&labelColor=0A0E14&color=00FF9C" alt="Followers"/></a>
+<a href="https://github.com/chilkotikartik?tab=repositories"><img src="https://img.shields.io/github/stars/chilkotikartik?label=STARS&style=flat-square&logo=github&logoColor=00FF9C&labelColor=0A0E14&color=00FF9C" alt="Stars"/></a>
+
+<br/><br/>
+
+<img src="./assets/stats.svg" width="100%" alt="8x hackathon wins · 2x international · #1 IIT Madras SIH internal · 5K+ mentored · Top 12 GSSoC mentor"/>
 
 </div>
 
-<br />
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## ⚡ Executive Summary
-
-I am a **Full-Stack Developer & Software Architect** specialized in crafting mission-critical applications. My core engineering portfolio centers on **civic intelligence operating systems, real-time collaboration engines, and AI-assisted operational workflows**, combining high-scale backend infrastructure with accessible, responsive user interfaces.
+## `$ whoami`
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>🔭 Currently Building</strong><br />
-      High-throughput civic triage platforms, predictive dispatch engines, and AI workflow copilots.
-    </td>
-    <td width="33%" valign="top">
-      <strong>🧠 Core Stack</strong><br />
-      TypeScript &bull; Next.js 16 &bull; React 19 &bull; Node.js &bull; PostgreSQL &bull; Groq AI &bull; WebSockets
-    </td>
-    <td width="33%" valign="top">
-      <strong>🎯 Architecture Focus</strong><br />
-      Clean Architecture, modular design systems, distributed queues, and WASM media pipelines.
-    </td>
-  </tr>
+<tr>
+<td width="52%" valign="top">
+
+I build technology, compete at the highest level, and help other builders grow.
+
+I'm a **Full-Stack & AI Developer** and **DevOps Engineer at Ments**, taking ideas all the way from *problem → architecture → deployment → pitch → impact*.
+
+- 🏆 **8× hackathon winner**, **2× international** hackathon competitor
+- 🥇 **#1** in IIT Madras' internal **Smart India Hackathon** round
+- 🧑‍🏫 **5,000+ builders mentored** · **Top 12 GSSoC Mentor**
+- 🏛️ **Youth Mentor** — Uttarakhand State Council for Science & Technology
+- 🇮🇳 Presented **Sankalp AI** at **Rashtrapati Niketan**, Dehradun
+
+</td>
+<td width="48%" valign="top">
+
+<img src="./assets/terminal.svg" width="100%" alt="Animated terminal"/>
+
+</td>
+</tr>
 </table>
 
----
+```bash
+$ cat ~/.config/kartik.env
 
-## 🚀 Featured Flagship Projects
+ROLE="Full-Stack & AI Developer · DevOps Engineer @ Ments · Technical Mentor"
+EXP="2+ years hands-on — software, DevOps, hackathons, open source, mentoring"
+DOMAIN="AI · DevOps & Cloud · Full-Stack · Cybersecurity · EdTech · Tech for Impact"
+STACK="Python · TypeScript · React/Next.js · Node/NestJS · Flask/Django · MongoDB · AWS/GCP"
+OPEN_TO="SWE Intern · SDE · Full-Stack · AI Engineer · DevOps/Cloud · Backend · DevRel"
+```
+
+<div align="center"><img src="./assets/pipeline.svg" width="100%" alt="Build → Deploy → Compete → Mentor → Impact"/></div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `$ ls ~/arsenal --by-layer`
+
+<div align="center">
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/chilkotiKartik/sahasra-2026">🛡️ SAHASRA 2026</a></h3>
-      <p>AI-first crime intelligence and field workflow operating system featuring real-time anomaly detection, predictive planning, and live emergency dispatch.</p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,tensorflow" height="24" alt="Stack" />
-      </p>
-      <p>
-        <a href="https://sahasra1.development.catalystappsail.in/"><strong>🌐 Live Demo</strong></a> &bull; 
-        <a href="https://github.com/chilkotiKartik/sahasra-2026"><strong>📂 Repository</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/chilkotiKartik/Project-Sankalp">🏛️ Project-Sankalp & Sankalp AI</a></h3>
-      <p>AI-assisted civic grievance platform with automated triage, escalation protocols, governance dashboards, and real-time incident queues.</p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs" height="24" alt="Stack" />
-      </p>
-      <p>
-        <a href="https://github.com/chilkotiKartik/Project-Sankalp"><strong>📂 Project-Sankalp</strong></a> &bull; 
-        <a href="https://github.com/chilkotiKartik/sankalp-ai"><strong>🤖 Sankalp AI</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/chilkotiKartik/enterprise-event-system">⚡ Enterprise Event System</a></h3>
-      <p>Large-scale event operations engine with Supabase SSR, Groq LLM assistance, in-browser WASM FFmpeg video transcoding, and PostgreSQL migrations.</p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,postgres,supabase,aws" height="24" alt="Stack" />
-      </p>
-      <p>
-        <a href="https://github.com/chilkotiKartik/enterprise-event-system"><strong>📂 View Codebase</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/chilkotiKartik/suvidha-hub">📍 Suvidha Hub</a></h3>
-      <p>Mobile-first civic complaint reporting platform featuring GPS-enabled ticketing, real-time status tracking, and administrative triage.</p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind" height="24" alt="Stack" />
-      </p>
-      <p>
-        <a href="https://suvidha-hub.vercel.app"><strong>🌐 Live Demo</strong></a> &bull; 
-        <a href="https://github.com/chilkotiKartik/suvidha-hub"><strong>📂 Repository</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/chilkotiKartik/Dev-fusion">💻 Dev-Fusion</a></h3>
-      <p>Collaborative developer platform and real-time workspace designed for team synchronization, code management, and live collaboration.</p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nodejs" height="24" alt="Stack" />
-      </p>
-      <p>
-        <a href="https://dev-fusion-sage.vercel.app/"><strong>🌐 Live Demo</strong></a> &bull; 
-        <a href="https://github.com/chilkotiKartik/Dev-fusion"><strong>📂 Repository</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/chilkotiKartik/livwell-health">🥗 LivWell Health & Nutrition</a></h3>
-      <p>Modern lifestyle tracking and nutrition application with Radix UI primitives, dynamic meal carts, and Recharts health visualizations.</p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="24" alt="Stack" />
-      </p>
-      <p>
-        <a href="https://github.com/chilkotiKartik/livwell-health"><strong>📂 View Codebase</strong></a>
-      </p>
-    </td>
-  </tr>
+<tr><td align="center" width="170"><b><code>LANGUAGES</code></b></td><td align="center"><img src="https://skillicons.dev/icons?i=py,ts,js,go,java,cpp,c&theme=dark&perline=7" alt="Languages"/></td></tr>
+<tr><td align="center"><b><code>FRONTEND</code></b></td><td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vue,angular&theme=dark&perline=7" alt="Frontend"/></td></tr>
+<tr><td align="center"><b><code>BACKEND</code></b></td><td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,django,php,bootstrap&theme=dark&perline=7" alt="Backend"/></td></tr>
+<tr><td align="center"><b><code>DATA &amp; CLOUD</code></b></td><td align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,aws,gcp,pytorch&theme=dark&perline=7" alt="Data and Cloud"/></td></tr>
+<tr><td align="center"><b><code>DEVOPS &amp; TOOLS</code></b></td><td align="center"><img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,figma,blender&theme=dark&perline=7" alt="DevOps and Tools"/></td></tr>
 </table>
 
----
-
-## 📦 Published Open-Source NPM Packages
-
-A suite of production-ready packages authored by **Kartik Chilkoti** on the [GitHub Packages Registry](https://github.com/chilkotiKartik?tab=packages):
-
-| Package Name | Category | Description |
-| :--- | :--- | :--- |
-| [@chilkotikartik/core-utils](https://github.com/chilkotiKartik?tab=packages) | **Full-Stack Utilities** | String sanitization, date formatters, and fullstack helpers |
-| [@chilkotikartik/civic-ui-tokens](https://github.com/chilkotiKartik?tab=packages) | **Design Systems** | Accessible color palettes, spacing scales, and theme primitives |
-| [@chilkotikartik/realtime-hooks](https://github.com/chilkotiKartik?tab=packages) | **React Hooks** | WebSocket connection managers, live polling, and debounce hooks |
-| [@chilkotikartik/ai-triage-core](https://github.com/chilkotiKartik?tab=packages) | **AI & Algorithms** | Automated incident triage, severity scoring, and prompt formatting |
-| [@chilkotikartik/geo-spatial-utils](https://github.com/chilkotiKartik?tab=packages) | **Geospatial** | High-precision GPS distance calculation & proximity bounding |
-| [@chilkotikartik/form-validators](https://github.com/chilkotiKartik?tab=packages) | **Validation** | Production-ready phone, email, and input schema sanitizers |
-| [@chilkotikartik/tailwind-civic-preset](https://github.com/chilkotiKartik?tab=packages) | **Styling** | High-contrast Tailwind CSS presets for public dashboards |
-| [@chilkotikartik/rate-limiter-redis](https://github.com/chilkotiKartik?tab=packages) | **Infrastructure** | Sliding-window API rate limiter middleware for Express and Next.js |
-
----
-
-## 🛠️ Complete Technical Ecosystem
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,nodejs,express,postgres,mongodb,supabase,firebase,tailwind,docker,git,figma,postman,linux,aws&perline=18" alt="Master Tech Stack Grid" />
+<img src="https://img.shields.io/badge/Generative_AI-0A0E14?style=for-the-badge&logo=openai&logoColor=00FF9C" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-0A0E14?style=for-the-badge&logo=probot&logoColor=00FF9C" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/AI_API_Integration-0A0E14?style=for-the-badge&logo=fastapi&logoColor=00FF9C" alt="AI API Integration"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0A0E14?style=for-the-badge&logo=githubactions&logoColor=00FF9C" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/Cloud_Ops-0A0E14?style=for-the-badge&logo=amazonwebservices&logoColor=00FF9C" alt="Cloud Ops"/>
+<img src="https://img.shields.io/badge/Socket.IO-0A0E14?style=for-the-badge&logo=socketdotio&logoColor=00FF9C" alt="Socket.IO"/>
+<img src="https://img.shields.io/badge/Ethical_Hacking-0A0E14?style=for-the-badge&logo=kalilinux&logoColor=00B4FF" alt="Ethical Hacking"/>
+<img src="https://img.shields.io/badge/Secure_Coding-0A0E14?style=for-the-badge&logo=owasp&logoColor=00B4FF" alt="Secure Coding"/>
+<img src="https://img.shields.io/badge/Unity-0A0E14?style=for-the-badge&logo=unity&logoColor=00B4FF" alt="Unity"/>
 
 </div>
 
-<br />
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript (ES6+), Python 3.11, SQL |
-| **Frontend & Mobile** | Next.js 16/15 (Turbopack, App Router), React 19, React Native (Expo), Vite, Tailwind CSS, Radix UI, Framer Motion |
-| **Backend & APIs** | Node.js, Express.js, Socket.IO, WebRTC, BullMQ, RESTful Architectures |
-| **Databases & Cloud** | PostgreSQL, MongoDB, Supabase SSR, Firebase, Redis, AWS S3, Vercel, Netlify |
-| **AI & Media Pipelines** | Groq SDK, TensorFlow.js, PyTorch, @ffmpeg/ffmpeg (WASM), Recharts |
-| **Tooling & DevOps** | Docker, Git, GitHub Actions, NPM Package Publishing, Linux |
+## `$ ./skill_matrix --scan`
 
----
+<table>
+<tr>
+<td width="44%" valign="middle"><img src="./assets/radar.svg" width="100%" alt="Skill radar"/></td>
+<td width="56%" valign="middle">
 
-## 📊 GitHub Analytics & Productivity Metrics
+| Domain | Level | Signal |
+|:--|:--|:--|
+| 🚀 **DevOps & Cloud** | `▰▰▰▰▰▰▰▰▱▱` | CI/CD, deployment workflows, AWS & GCP ops at Ments and SIH |
+| 🌐 **Full-Stack** | `▰▰▰▰▰▰▰▰▱▱` | React · Next.js · Node · NestJS · Flask · Django · Socket.IO |
+| 🤖 **AI / Data** | `▰▰▰▰▰▰▰▰▱▱` | GenAI, prompt engineering, AI APIs, PyTorch |
+| 🗄️ **Databases** | `▰▰▰▰▰▰▰▱▱▱` | MongoDB · PostgreSQL · MySQL · Firebase · Advanced SQL |
+| 🔐 **Security** | `▰▰▰▰▰▰▰▱▱▱` | Ethical hacking, secure coding, SecOps, AppSec |
+| 🧑‍🏫 **Mentorship** | `▰▰▰▰▰▰▰▰▰▰` | 5,000+ mentored · UCOST Youth Mentor · Top 12 GSSoC |
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `$ ls ~/projects --featured`
+
+<div align="center">
+<img src="./assets/metromind.svg" width="49%" alt="MetroMind AI"/>
+<img src="./assets/sankalp.svg" width="49%" alt="Sankalp AI"/>
+<img src="./assets/collabsphere.svg" width="49%" alt="Collab-Sphere X"/>
+<img src="./assets/ignitehub.svg" width="49%" alt="IgniteHub X"/>
+</div>
+
+<details open>
+<summary><b>🚆 MetroMind AI</b> — AI-driven train induction planning & scheduling · <i>Smart India Hackathon 2025</i></summary>
+<br/>
+
+| Stack | Scale | Impact |
+|:--|:--|:--|
+| AI · Data Science · Dashboard · Backend · DevOps | Kochi Metro Rail Limited (KMRL) problem statement | **#1** in IIT Madras internal SIH round · one of **45 teams** representing IIT Madras at SIH 2025 |
+
+- **Role — DevOps Engineer:** owned deployment & infrastructure workflows for the team's AI solution
+- Supported the engineering environment across ML, data, backend and dashboard teammates
+- Drove end-to-end technical delivery from build to final demo
+
+<a href="https://github.com/Perceptron04/KMRL_SIH"><img src="https://img.shields.io/badge/REPO-KMRL__SIH-00FF9C?style=flat-square&logo=github&labelColor=0A0E14" alt="MetroMind AI repository"/></a>
+
+</details>
+
+<details>
+<summary><b>🇮🇳 Sankalp AI</b> — AI innovation for real-world social impact · <i>National Technology Day 2026</i></summary>
+<br/>
+
+| Stack | Scale | Impact |
+|:--|:--|:--|
+| AI · ML · Software Development | National-level showcase | Presented at **Rashtrapati Niketan, Dehradun** to researchers incl. ISRO and CSIR-IIP professionals |
+
+- **Role — Co-developer:** technical implementation, innovation direction and presentation
+
+<a href="https://github.com/chilkotiKartik/sankalp-ai"><img src="https://img.shields.io/badge/REPO-sankalp--ai-00FF9C?style=flat-square&logo=github&labelColor=0A0E14" alt="Sankalp AI repository"/></a>
+
+</details>
+
+<details>
+<summary><b>🤝 Collab-Sphere X</b> — AI-powered open-source collaboration platform</summary>
+<br/>
+
+| Stack | Scale | Impact |
+|:--|:--|:--|
+| Full Stack · AI | Built for open-source developer communities | AI-assisted collaboration for contributors and maintainers |
+
+- **Role:** product development, technical implementation and AI integration
+
+</details>
+
+<details>
+<summary><b>🔥 IgniteHub X</b> — Human-AI ecosystem for student builders</summary>
+<br/>
+
+| Stack | Scale | Impact |
+|:--|:--|:--|
+| AI · Full Stack · Community | Designed for student builders | Learning, collaboration, open source and project incubation in one hub |
+
+- **Role:** platform ideation, product direction and core technical development
+
+</details>
+
+<details>
+<summary><b>🌱 Tech X</b> — Technology for biodiversity & sustainability</summary>
+<br/>
+
+| Stack | Scale | Impact |
+|:--|:--|:--|
+| Web · AI · Eco-Tech | Sustainability initiative | Applies web and AI to technology-for-good problems |
+
+- **Role:** development and experimentation around eco-tech and social impact
+
+</details>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `$ git log --career --graph`
+
+```diff
+@@ 2026 → PRESENT @@  DevOps Engineer · Ments
+```
+- Engineer on the technology team of **Ments** — a platform connecting projects, startups, talent, mentorship, hiring and funding
+- Build reliable, scalable deployment and infrastructure workflows for the platform
+- Drive DevOps automation and cloud operations
+- Work across a startup ecosystem with **IIT Madras** and **BITS Pilani Hyderabad** collaborations
+
+`DevOps` `CI/CD` `Cloud` `Scalable Deployment` `Startups`
+
+```diff
+@@ 2026 → PRESENT @@  Youth Mentor · Uttarakhand State Council for Science & Technology
+```
+- Featured mentor in a **Government of Uttarakhand** mentorship initiative
+- Guide students in Engineering, Web Development, IoT, Leadership and Research & Innovation
+- Provide technical and career direction to learners across Uttarakhand through digital mentorship
+- Help grow a state-level ecosystem for young innovators
+
+`Mentorship` `Web Dev` `IoT` `Leadership`
+
+```diff
+@@ 2026 → PRESENT @@  Technology & Community Contributor · Colab Nation
+```
+- Contribute to student-focused technology and community initiatives
+- Work on AI education, prompt engineering and builder culture
+- Help organize learning and technology challenges
+- Drive community-led innovation and student engagement
+
+`AI Education` `Prompt Engineering` `Community`
+
+```diff
+@@ 2026 @@  Mentor · Elite Coders Winter of Code  ·  Hackathon Mentor · Elite Hack 1.0
+```
+- Mentored **5,000+ developers** through Elite Coders Winter of Code
+- Guided open-source contributors to raise skill and contribution quality
+- Mentored hackathon teams on ideation, technical approach and execution
+- Gave practical feedback on product development and hackathon strategy
+
+`Open Source` `Mentorship` `Hackathons`
+
+```diff
+@@ 2025 @@  DevOps Engineer · Team MetroMind AI — Smart India Hackathon
+```
+- DevOps Engineer on an AI-driven train induction & scheduling system for **Kochi Metro Rail Limited**
+- Ran infrastructure, deployment and engineering workflows for the team's solution
+- Collaborated across ML, data, backend, dashboard and operations roles
+- Team ranked **#1** in the IIT Madras internal SIH round — one of **45 teams** to represent IIT Madras
+
+`DevOps` `AI/ML` `Deployment` `Smart Mobility`
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `$ cat trophies.log`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chilkotiKartik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Kartik Chilkoti GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chilkotiKartik&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages Breakdown" />
+<img src="./assets/trophies.svg" width="100%" alt="Trophy cabinet"/>
 
-<br /><br />
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chilkotiKartik&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+| 🏆 Achievement | 📌 Details |
+|:--|:--|
+| **8× Hackathon Winner** | Wins across national and student hackathons |
+| **2× International Hackathons** | Including **Top 4** at the Indo-Israel International Hackathon |
+| **#1 — IIT Madras SIH Internal Round** | Team MetroMind AI · one of 45 teams representing IIT Madras at SIH 2025 |
+| **Top 12 GSSoC Mentor** | GirlScript Summer of Code |
+| **5,000+ Builders Mentored** | Elite Coders Winter of Code & mentorship platforms |
+| **Youth Mentor — UCOST** | Uttarakhand State Council for Science & Technology |
+| **Hackathon Mentor** | Hackathon under BITS Pilani Hyderabad · Elite Hack 1.0 · Unstop Student Mentor |
+| **National Technology Day 2026** | Presented Sankalp AI at Rashtrapati Niketan, Dehradun |
+| **5★ HackerRank** | Python & Problem Solving |
+| **2026 Global Recognition Award** | Innovation, Leadership, Research & Social Impact |
 
 </div>
 
----
+<details>
+<summary><b>📜 Certifications & credentials</b></summary>
+<br/>
 
-## 📬 Connect & Collaborate
+| Credential | Issuer |
+|:--|:--|
+| Certified Ethical Hacker (CEH) | — |
+| SQL (Advanced) | HackerRank |
+| Software Engineer Intern | HackerRank |
+| AWS SysOps Associate 2022: Key & Certificate Management | — |
+| SecOps Engineer: Secure Coding | — |
+| Introduction to MATLAB & Simulink | NIELIT |
+| Programming Robo Pro Coding | Infosys |
+| NEC '24 Track | E-Cell, IIT Bombay |
+| Social Winter of Code | — |
+| Google Cloud Skill Badges | Google Cloud |
+| HackIndia | HackIndia |
+
+</details>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `$ ls ~/arenas`
 
 <div align="center">
 
-**Open to collaborating on high-impact products, civic intelligence, and developer tooling.**
+<img src="https://img.shields.io/badge/HackerRank-5★_Python_·_5★_Problem_Solving-00FF9C?style=for-the-badge&logo=hackerrank&logoColor=00FF9C&labelColor=0A0E14" alt="HackerRank"/>
+<a href="https://www.geeksforgeeks.org/user/chilkotiofbf/"><img src="https://img.shields.io/badge/GeeksforGeeks-chilkotiofbf-00FF9C?style=for-the-badge&logo=geeksforgeeks&logoColor=00FF9C&labelColor=0A0E14" alt="GeeksforGeeks"/></a>
+<a href="https://hackindia.org/profile/chilkotikartik"><img src="https://img.shields.io/badge/HackIndia-chilkotikartik-00FF9C?style=for-the-badge&logo=devpost&logoColor=00FF9C&labelColor=0A0E14" alt="HackIndia"/></a>
 
-[![Email](https://img.shields.io/badge/Email-chilkotikartik%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chilkotikartik@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-chilkotiKartik-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chilkotiKartik)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Kartik_Chilkoti-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/kartik_chilkoti_8cbb5980d)
-[![HackerRank](https://img.shields.io/badge/HackerRank-chilkotikartik-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chilkotikartik)
+</div>
 
-<br /><br />
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,50:2563EB,100:0F172A" width="100%" alt="Footer Wave" />
+## `$ gh telemetry --live`
 
-<sub>Designed & Engineered with precision by <strong>Kartik Chilkoti</strong> &bull; All rights reserved.</sub>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=chilkotikartik&background=0A0E14&border=1F2A37&stroke=1F2A37&ring=00FF9C&fire=00B4FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=7D8590&hide_border=false" width="100%" alt="GitHub streak"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chilkotikartik&theme=chartreuse-dark" width="100%" alt="Profile details and contributions"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chilkotikartik&theme=chartreuse-dark" width="49%" alt="Repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chilkotikartik&theme=chartreuse-dark" width="49%" alt="Most commit language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chilkotikartik&theme=chartreuse-dark" width="49%" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chilkotikartik&theme=chartreuse-dark&utcOffset=5.5" width="49%" alt="Productive time"/>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `$ ./snake --eat contributions`
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chilkotiKartik/chilkotikartik/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chilkotiKartik/chilkotikartik/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/chilkotiKartik/chilkotikartik/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
+</picture>
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `$ cat current_focus.yml`
+
+```yaml
+kartik_chilkoti:
+  building:
+    - Ments technology ecosystem        # DevOps Engineer
+    - AI-powered products               # Collab-Sphere X · IgniteHub X
+    - Full-stack apps & hackathon builds
+    - Open-source & developer communities
+  learning:
+    - Advanced DevOps · CI/CD · cloud-native infrastructure
+    - System design & scalable architecture
+    - Next.js · Tailwind CSS · Socket.IO · MongoDB · Three.js
+    - AI integration
+  exploring:
+    - GenAI for learning                # IgniteHub X
+    - Tech for sustainability           # Tech X
+    - Smart mobility                    # MetroMind AI
+  mentoring:
+    - UCOST Youth Mentorship
+    - Open-source contributors & hackathon teams
+  open_to:
+    - Software Engineer Intern / SDE
+    - Full-Stack · Backend Developer
+    - AI Engineer · AI Application Engineer
+    - DevOps · Cloud Engineer
+    - Developer Relations · Open Source Programs · R&D
+```
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `$ ssh kartik@connect`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kartik-chilkoti/"><img src="https://img.shields.io/badge/LinkedIn-kartik--chilkoti-00FF9C?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0A0E14" alt="LinkedIn"/></a>
+<a href="https://github.com/chilkotikartik"><img src="https://img.shields.io/badge/GitHub-chilkotikartik-00FF9C?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0A0E14" alt="GitHub"/></a>
+<a href="https://dev.to/kartik_chilkoti_8cbb5980d"><img src="https://img.shields.io/badge/DEV-Kartik_Chilkoti-00FF9C?style=for-the-badge&logo=devdotto&logoColor=00FF9C&labelColor=0A0E14" alt="DEV"/></a>
+<a href="https://hackindia.org/profile/chilkotikartik"><img src="https://img.shields.io/badge/HackIndia-chilkotikartik-00FF9C?style=for-the-badge&logo=devpost&logoColor=00FF9C&labelColor=0A0E14" alt="HackIndia"/></a>
+<a href="https://www.geeksforgeeks.org/user/chilkotiofbf/"><img src="https://img.shields.io/badge/GFG-chilkotiofbf-00FF9C?style=for-the-badge&logo=geeksforgeeks&logoColor=00FF9C&labelColor=0A0E14" alt="GeeksforGeeks"/></a>
+
+<br/><br/>
+
+<b><code>"I build technology, compete at the highest level, and help other builders grow."</code></b>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4FF,100:00FF9C&height=130&section=footer&text=BUILD%20%E2%86%92%20DEPLOY%20%E2%86%92%20COMPETE%20%E2%86%92%20MENTOR%20%E2%86%92%20IMPACT&fontSize=20&fontColor=0A0E14&fontAlignY=72" width="100%" alt="Footer"/>
 
 </div>
