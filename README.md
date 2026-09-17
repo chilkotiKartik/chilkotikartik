@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/BASE-Uttarakhand,_India-00FF9C?style=flat-square&labelColor=0A0E14" alt="Location"/>
 <img src="https://img.shields.io/badge/STATUS-Open_to_Opportunities-00B4FF?style=flat-square&labelColor=0A0E14" alt="Status"/>
 <img src="https://img.shields.io/badge/LICENSE-All_Rights_Reserved-FF3366?style=flat-square&labelColor=0A0E14" alt="License"/>
+<img src="https://img.shields.io/badge/COPYRIGHT-Protected_%26_Monitored-0A0E14?style=flat-square&logo=githubsponsors&logoColor=00FF9C" alt="Protected"/>
 
 <br/><br/>
 
@@ -384,7 +385,7 @@ kartik_chilkoti:
 
 <br/>
 
-<sub>© 2024-2026 <b>Kartik Chilkoti</b>. All Rights Reserved. Unauthorized copying, distribution, or reproduction of this repository or its assets is strictly prohibited. See <a href="./LICENSE">LICENSE</a> for details.</sub>
+<sub>© 2024-2026 <b>Kartik Chilkoti</b>. All Rights Reserved. Protected by international copyright laws. Unauthorized copying, forking as template, or asset scraping is strictly prohibited. See <a href="./LICENSE">LICENSE</a> & <a href="./COPYRIGHT.md">LEGAL NOTICE</a>.</sub>
 
 </div>
 
