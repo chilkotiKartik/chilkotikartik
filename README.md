@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/FOCUS-Full--Stack_·_AI_·_Cloud-00FF9C?style=flat-square&labelColor=0A0E14" alt="Focus"/>
 <img src="https://img.shields.io/badge/BASE-Uttarakhand,_India-00FF9C?style=flat-square&labelColor=0A0E14" alt="Location"/>
 <img src="https://img.shields.io/badge/STATUS-Open_to_Opportunities-00B4FF?style=flat-square&labelColor=0A0E14" alt="Status"/>
+<img src="https://img.shields.io/badge/LICENSE-All_Rights_Reserved-FF3366?style=flat-square&labelColor=0A0E14" alt="License"/>
 
 <br/><br/>
 
@@ -381,4 +382,9 @@ kartik_chilkoti:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4FF,100:00FF9C&height=130&section=footer&text=BUILD%20%E2%86%92%20DEPLOY%20%E2%86%92%20COMPETE%20%E2%86%92%20MENTOR%20%E2%86%92%20IMPACT&fontSize=20&fontColor=0A0E14&fontAlignY=72" width="100%" alt="Footer"/>
 
+<br/>
+
+<sub>© 2024-2026 <b>Kartik Chilkoti</b>. All Rights Reserved. Unauthorized copying, distribution, or reproduction of this repository or its assets is strictly prohibited. See <a href="./LICENSE">LICENSE</a> for details.</sub>
+
 </div>
+
