@@ -4,9 +4,9 @@
 
 <a href="https://github.com/chilkotikartik"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00FF9C&background=0A0E1400&center=true&vCenter=true&width=760&height=50&lines=%24+building+AI-powered+products+that+ship;%24+deploying+at+Ments+as+a+DevOps+Engineer;%24+8x+hackathon+winner+%C2%B7+2x+international;%24+mentoring+5%2C000%2B+builders+across+India;%24+BUILD+%E2%86%92+DEPLOY+%E2%86%92+COMPETE+%E2%86%92+MENTOR+%E2%86%92+IMPACT" alt="Typing intro"/></a>
 
-<img src="https://img.shields.io/badge/ROLE-DevOps_Engineer_@_Ments-00FF9C?style=flat-square&labelColor=0A0E14" alt="Role"/>
+<img src="https://img.shields.io/badge/ROLE-DevOps_Engineer_@_Ments-0A0E14?style=flat-square&labelColor=0A0E14&logoColor=00FF9C" alt="Role"/>
 <img src="https://img.shields.io/badge/FOCUS-Full--Stack_·_AI_·_Cloud-00FF9C?style=flat-square&labelColor=0A0E14" alt="Focus"/>
-<img src="https://img.shields.io/badge/BASE-Uttarakhand,_India-00FF9C?style=flat-square&labelColor=0A0E14" alt="Location"/>
+<img src="https://img.shields.io/badge/BASE-Uttarakhand,_India-0A0E14?style=flat-square&labelColor=0A0E14&logoColor=00FF9C" alt="Location"/>
 <img src="https://img.shields.io/badge/STATUS-Open_to_Opportunities-00B4FF?style=flat-square&labelColor=0A0E14" alt="Status"/>
 
 <br/><br/>
@@ -298,8 +298,8 @@ OPEN_TO="SWE Intern · SDE · Full-Stack · AI Engineer · DevOps/Cloud · Backe
 <div align="center">
 
 <img src="https://img.shields.io/badge/HackerRank-5★_Python_·_5★_Problem_Solving-00FF9C?style=for-the-badge&logo=hackerrank&logoColor=00FF9C&labelColor=0A0E14" alt="HackerRank"/>
-<a href="https://www.geeksforgeeks.org/user/chilkotiofbf/"><img src="https://img.shields.io/badge/GeeksforGeeks-chilkotiofbf-00FF9C?style=for-the-badge&logo=geeksforgeeks&logoColor=00FF9C&labelColor=0A0E14" alt="GeeksforGeeks"/></a>
-<a href="https://hackindia.org/profile/chilkotikartik"><img src="https://img.shields.io/badge/HackIndia-chilkotikartik-00FF9C?style=for-the-badge&logo=devpost&logoColor=00FF9C&labelColor=0A0E14" alt="HackIndia"/></a>
+<a href="https://www.geeksforgeeks.org/user/chilkotiofbf/"><img src="https://img.shields.io/badge/GeeksforGeeks-chilkotiofbf-0A0E14?style=for-the-badge&logo=geeksforgeeks&logoColor=00FF9C&labelColor=0A0E14" alt="GeeksforGeeks"/></a>
+<a href="https://hackindia.org/profile/chilkotikartik"><img src="https://img.shields.io/badge/HackIndia-chilkotikartik-0A0E14?style=for-the-badge&logo=devpost&logoColor=00FF9C&labelColor=0A0E14" alt="HackIndia"/></a>
 
 </div>
 
@@ -369,11 +369,11 @@ kartik_chilkoti:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/kartik-chilkoti/"><img src="https://img.shields.io/badge/LinkedIn-kartik--chilkoti-00FF9C?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0A0E14" alt="LinkedIn"/></a>
-<a href="https://github.com/chilkotikartik"><img src="https://img.shields.io/badge/GitHub-chilkotikartik-00FF9C?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0A0E14" alt="GitHub"/></a>
-<a href="https://dev.to/kartik_chilkoti_8cbb5980d"><img src="https://img.shields.io/badge/DEV-Kartik_Chilkoti-00FF9C?style=for-the-badge&logo=devdotto&logoColor=00FF9C&labelColor=0A0E14" alt="DEV"/></a>
-<a href="https://hackindia.org/profile/chilkotikartik"><img src="https://img.shields.io/badge/HackIndia-chilkotikartik-00FF9C?style=for-the-badge&logo=devpost&logoColor=00FF9C&labelColor=0A0E14" alt="HackIndia"/></a>
-<a href="https://www.geeksforgeeks.org/user/chilkotiofbf/"><img src="https://img.shields.io/badge/GFG-chilkotiofbf-00FF9C?style=for-the-badge&logo=geeksforgeeks&logoColor=00FF9C&labelColor=0A0E14" alt="GeeksforGeeks"/></a>
+<a href="https://www.linkedin.com/in/kartik-chilkoti/"><img src="https://img.shields.io/badge/LinkedIn-kartik--chilkoti-0A0E14?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0A0E14" alt="LinkedIn"/></a>
+<a href="https://github.com/chilkotikartik"><img src="https://img.shields.io/badge/GitHub-chilkotikartik-0A0E14?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0A0E14" alt="GitHub"/></a>
+<a href="https://dev.to/kartik_chilkoti_8cbb5980d"><img src="https://img.shields.io/badge/DEV-Kartik_Chilkoti-0A0E14?style=for-the-badge&logo=devdotto&logoColor=00FF9C&labelColor=0A0E14" alt="DEV"/></a>
+<a href="https://hackindia.org/profile/chilkotikartik"><img src="https://img.shields.io/badge/HackIndia-chilkotikartik-0A0E14?style=for-the-badge&logo=devpost&logoColor=00FF9C&labelColor=0A0E14" alt="HackIndia"/></a>
+<a href="https://www.geeksforgeeks.org/user/chilkotiofbf/"><img src="https://img.shields.io/badge/GFG-chilkotiofbf-0A0E14?style=for-the-badge&logo=geeksforgeeks&logoColor=00FF9C&labelColor=0A0E14" alt="GeeksforGeeks"/></a>
 
 <br/><br/>
 
