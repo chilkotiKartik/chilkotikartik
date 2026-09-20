@@ -2,7 +2,7 @@
 
 <img src="./assets/hero.svg" width="100%" alt="Kartik Chilkoti — Full-Stack & AI Builder, DevOps Engineer"/>
 
-<a href="https://github.com/chilkotikartik"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00FF9C&background=0A0E1400&center=true&vCenter=true&width=760&height=50&lines=%24+building+AI-powered+products+that+ship;%24+deploying+at+Ments+as+a+DevOps+Engineer;%24+8x+hackathon+winner+%C2%B7+2x+international;%24+mentoring+5%2C000%2B+builders+across+India;%24+BUILD+%E2%86%92+DEPLOY+%E2%86%92+COMPETE+%E2%86%92+MENTOR+%E2%86%92+IMPACT" alt="Typing intro"/></a>
+<a href="https://github.com/chilkotikartik"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=700&color=00FF9C&background=0A0E1400&center=true&vCenter=true&multiline=false&width=800&height=55&lines=%E2%9A%A1+Architecting+Autonomous+AI+Agents+%26+Distributed+Systems;%F0%9F%9A%80+Founder+%40+CoLab+Nation+%E2%80%94+Empowering+Global+Builders;%F0%9F%9B%A0%EF%B8%8F+DevOps+Engineer+%40+Ments+%C2%B7+High-Throughput+Cloud+Pipelines;%F0%9F%8F%86+8x+Hackathon+Champion+%C2%B7+Top+Tier+Open-Source+Maintainer;%F0%9F%94%A5+BUILD+%E2%86%92+DEPLOY+%E2%86%92+OPTIMIZE+%E2%86%92+SCALE" alt="Typing Animation"/></a>
 
 <img src="https://img.shields.io/badge/ROLE-DevOps_Engineer_@_Ments-0A0E14?style=flat-square&labelColor=0A0E14&logoColor=00FF9C" alt="Role"/>
 <img src="https://img.shields.io/badge/FOCUS-Full--Stack_·_AI_·_Cloud-00FF9C?style=flat-square&labelColor=0A0E14" alt="Focus"/>
